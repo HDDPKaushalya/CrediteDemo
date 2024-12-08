@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "CrediteCardAPI.Controllers.CreditCardController",
+    "Method": "ValidateCard",
+    "RelativePath": "api/CreditCard/Validate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "creditCard",
+        "Type": "CrediteCardAPI.Models.CreditCard",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
